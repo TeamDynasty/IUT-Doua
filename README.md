@@ -3,7 +3,8 @@
 ```
 0 - Informatique
 1 - Mathématiques
-2 - algorithme
+2 - Communication
 3 - Economie
-4 - Communication
+4 - Anglais
+5 - Algorithme
 ```
